@@ -99,7 +99,7 @@ system and *arrow* terminal.
 
 EmacsWiki:
 [En](http://www.emacswiki.org/emacs/NeoTree)
-[中文版](http://www.emacswiki.org/emacs-zh/NeoTree_%E4%B8%AD%E6%96%87wiki)
+[中文版](http://www.emacswiki.org/emacs/NeoTree_%E4%B8%AD%E6%96%87wiki)
 
 
 [^1]: For users who want to use the `icons` theme. Please make sure you have installed the
